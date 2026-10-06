@@ -1,0 +1,934 @@
+Build a premium, minimalist, high-converting personal portfolio website for **Jerome Lacieras**, a Graphic Designer available for brands and companies.
+
+This is NOT just an online gallery. Treat the website as a **conversion-focused portfolio funnel** designed to turn visitors into potential clients, hiring managers, creative agencies, and company opportunities.
+
+The primary positioning is:
+
+**Graphic Designer available for brands & companies**
+
+Primary services:
+**Social Media & Ad Creatives • Branding • Marketing Design**
+
+Portfolio:
+**https://www.behance.net/jelacierasgfx**
+
+Email:
+**jela.creatives@gmail.com**
+
+LinkedIn:
+**https://www.linkedin.com/in/jeromelacieras**
+
+---
+
+# 1. CORE OBJECTIVE
+
+The website should answer these questions within the first few seconds:
+
+1. Who is Jerome?
+2. What does he specialize in?
+3. Can he create the type of design I need?
+4. Does he have enough experience to trust?
+5. How can I work with him?
+
+The conversion journey should be:
+
+**ATTENTION → CREDIBILITY → PORTFOLIO → SERVICES → TRUST → CONTACT**
+
+Do not overwhelm visitors with unnecessary text.
+
+The portfolio visuals should do most of the selling.
+
+The overall tone should be:
+
+**Professional • Creative • Confident • Minimal • Premium • Approachable**
+
+Avoid sounding like a corporate resume or overly aggressive salesperson.
+
+---
+
+# 2. VISUAL IDENTITY
+
+Create a sophisticated **navy blue + white minimalist design system**.
+
+Primary colors:
+
+Deep Navy:
+#071A33
+
+Dark Navy:
+#0B2342
+
+White:
+#FFFFFF
+
+Off White:
+#F6F8FA
+
+Light Gray:
+#E8ECF1
+
+Use navy as the primary brand color.
+
+Use white/off-white as the main canvas.
+
+Use subtle borders, shadows, and tonal differences rather than excessive decoration.
+
+Do NOT use:
+
+- Neon colors
+- Excessive gradients
+- Excessive glassmorphism
+- Generic startup-template visuals
+- Excessive rounded cards
+- Overly colorful UI
+- Excessive animations
+- Fake testimonials
+- Fake statistics
+- Fake client logos
+- Fake performance metrics
+
+The visual language should feel like a **premium creative portfolio / design studio**, not a SaaS website.
+
+---
+
+# 3. TYPOGRAPHY
+
+Use a modern premium sans-serif such as:
+
+- Inter
+- Manrope
+- Satoshi
+- Plus Jakarta Sans
+
+Use:
+
+Large bold headlines
+Short supporting copy
+Strong visual hierarchy
+Generous whitespace
+Clear CTA buttons
+
+Typography itself should be part of the visual identity.
+
+---
+
+# 4. NAVIGATION
+
+Create a sticky minimalist navigation.
+
+Left:
+
+**JEROME LACIERAS**
+
+Right:
+
+Work
+Services
+About
+Contact
+
+Primary CTA:
+
+**Let's Work Together**
+
+On mobile:
+
+Use a clean hamburger navigation.
+
+The navbar should remain visible while scrolling but become slightly more compact after scrolling.
+
+---
+
+# 5. HERO SECTION
+
+The hero must immediately communicate Jerome's value.
+
+Use this headline:
+
+**Graphic Designer creating visuals that make brands stand out.**
+
+Supporting text:
+
+**I create social media ads, marketing creatives, brand visuals, and digital content that help brands communicate clearly and look professionally built.**
+
+Add a small positioning statement:
+
+**Available for brands & companies**
+
+Primary CTA:
+
+**View My Work**
+
+Secondary CTA:
+
+**Let's Work Together**
+
+Add a subtle credibility line:
+
+**5+ Years Experience • 20+ Clients • Freelance & Corporate Experience**
+
+Do not make the hero overly busy.
+
+The portfolio imagery or a carefully selected design composition can be used as the hero visual.
+
+The hero should feel premium and editorial.
+
+---
+
+# 6. CREDIBILITY STRIP
+
+Immediately below the hero, create a clean horizontal credibility section.
+
+Use:
+
+**5+**
+Years of Experience
+
+**20+**
+Local & International Clients
+
+**Freelance + Corporate**
+Experience
+
+**Digital + Print**
+Design Experience
+
+Keep this visually minimal.
+
+Do not present these as exaggerated marketing claims.
+
+---
+
+# 7. FEATURED WORK
+
+Section title:
+
+**Selected Work**
+
+Supporting copy:
+
+**A curated selection of advertising, branding, social media, and marketing design projects.**
+
+Use the actual work from:
+
+https://www.behance.net/jelacierasgfx
+
+The portfolio should NOT simply copy the visual structure of Behance.
+
+Instead, curate the strongest work and present it as a premium portfolio.
+
+---
+
+# 8. PORTFOLIO PROJECTS
+
+Use the current projects available on Jerome's Behance profile.
+
+Relevant projects currently include:
+
+### FEATURED
+
+1. Brand Visuals for Lucky World Online (iGaming Brand)
+2. Social Media Posters for AXIS Dance Studio
+3. 2025 Wrapped: Ad Designs
+4. PetBloom Ad Images
+5. Pixra Creatives - Web Design and Logo Project
+
+### ADDITIONAL WORK
+
+6. 2025 Wrapped: Custom Canva Kits
+7. 2025 Wrapped: Poster Designs
+8. 2025 Wrapped: Logo Designs
+9. SK Poblacion Logo Design
+10. Campaign Materials Layout BSKE 2023
+11. Campaign Materials Layout for Serbisyong Bait
+12. JASkin Magical Touch Logo Design
+
+These project names are based on the current Behance portfolio. Do not invent additional projects.
+
+---
+
+# 9. PORTFOLIO FILTERS
+
+Create filters:
+
+**All**
+**Advertising**
+**Social Media**
+**Branding**
+**Marketing**
+**Posters**
+
+The filter interaction should be smooth and fast.
+
+Use large visual thumbnails.
+
+Featured projects should have larger cards than secondary projects.
+
+Use a deliberate editorial layout rather than making everything the same size.
+
+---
+
+# 10. PROJECT DETAIL EXPERIENCE
+
+When a visitor clicks a project, open a dedicated project page or elegant full-screen project view.
+
+Show:
+
+Project title
+Category
+Role
+Project description
+Deliverables
+Project images
+Behance link
+
+CTA:
+
+**Start a Similar Project**
+
+Secondary CTA:
+
+**View on Behance**
+
+Every project should have a clear visual hierarchy.
+
+Do not invent:
+
+- Client results
+- Revenue
+- Conversion rates
+- Engagement statistics
+- Testimonials
+- Project scope
+- Client names
+
+Only use information available from the Behance project or Jerome's provided profile.
+
+---
+
+# 11. FEATURED CASE STUDY — LUCKY WORLD
+
+Make **Brand Visuals for Lucky World Online** one of the strongest case studies.
+
+Title:
+
+**Brand Visuals for Lucky World Online**
+
+Description:
+
+**A collection of marketing and brand visuals created for Lucky World Online, covering promotional graphics, social media creatives, and marketing collateral while maintaining a consistent visual identity and PAGCOR-compliant communication.**
+
+Information:
+
+**Role**
+Graphic Designer
+
+**Focus**
+Brand Visuals • Marketing Collateral • Social Media • Promotional Design
+
+Create an editorial case-study presentation using the actual project visuals.
+
+End with:
+
+**Need visuals for your brand?**
+
+CTA:
+
+**Let's Work Together**
+
+---
+
+# 12. SERVICES
+
+Section title:
+
+**What I Can Help You Design**
+
+Subtitle:
+
+**Design support for brands, businesses, marketing teams, and companies that need strong visual communication.**
+
+Create six service categories.
+
+### SOCIAL MEDIA & AD CREATIVES
+
+Static ads, promotional graphics, social media posts, campaign visuals, and digital creatives.
+
+### BRANDING & VISUAL IDENTITY
+
+Logo design, visual direction, brand assets, and simple brand guidelines.
+
+### MARKETING & PROMOTIONAL DESIGN
+
+Campaign materials, promotional graphics, posters, event materials, and marketing collateral.
+
+### GRAPHIC DESIGN
+
+Layouts, typography, presentations, print materials, and custom visual design.
+
+### CONTENT DESIGN
+
+Digital content, Canva templates, creative assets, and branded content systems.
+
+### BASIC MULTIMEDIA DESIGN
+
+Basic video editing, short-form creative assets, and motion-oriented content.
+
+Make the first three services visually more prominent.
+
+---
+
+# 13. SERVICE CONVERSION
+
+After the service cards, include a simple CTA:
+
+**Need design support for your brand?**
+
+Supporting text:
+
+**Whether you need ongoing creative support or a specific design project, let's discuss what you're working on.**
+
+Button:
+
+**Start a Project**
+
+Do NOT show rates.
+
+Do NOT show packages/pricing on the website.
+
+Pricing should only be discussed after understanding the project scope.
+
+---
+
+# 14. WHY WORK WITH JEROME
+
+Headline:
+
+**Design that looks good — and communicates clearly.**
+
+Create four concise points.
+
+### DESIGN-FIRST THINKING
+
+Strong focus on hierarchy, composition, typography, layout, and visual clarity.
+
+### MARKETING-AWARE DESIGN
+
+Design decisions are made with the message, audience, offer, and communication goal in mind.
+
+### FLEXIBLE CREATIVE SUPPORT
+
+Experience working across freelance and corporate environments, adapting to different briefs, industries, and workflows.
+
+### MODERN CREATIVE WORKFLOW
+
+Uses modern design and AI-assisted tools for ideation and asset generation, while refining the final output to maintain a polished, intentional look.
+
+Do not claim specific conversion improvements or business results without evidence.
+
+---
+
+# 15. PROCESS
+
+Create a clean four-step process.
+
+### 01 — BRIEF
+
+We discuss the project, goals, requirements, references, and timeline.
+
+### 02 — CONCEPT
+
+I develop the visual direction and design concepts based on the brief.
+
+### 03 — DESIGN
+
+I refine the selected direction and develop the final creative assets.
+
+### 04 — DELIVERY
+
+Final approved files are prepared in the required formats.
+
+CTA:
+
+**Have a project in mind?**
+
+**Let's Talk**
+
+---
+
+# 16. ABOUT
+
+Headline:
+
+**Hi, I'm Jerome.**
+
+Subheadline:
+
+**Graphic Designer creating visuals for brands, businesses, and marketing campaigns.**
+
+Body:
+
+**I'm Jerome Lacieras, a Graphic Designer with 5+ years of experience creating visual content across digital and print platforms. My experience spans freelance and corporate environments, allowing me to work across different industries, creative briefs, and production requirements.**
+
+**I specialize in social media design, advertising creatives, branding, marketing visuals, and visual communication. I combine strong design fundamentals with modern creative tools to create visuals that are clear, polished, and purposeful.**
+
+Include a compact professional profile:
+
+**Jerome Lacieras**
+
+Graphic Designer
+
+**5+ Years**
+Experience
+
+**20+**
+Local & International Clients
+
+**Freelance + Corporate**
+Experience
+
+**Current Role**
+Multimedia Designer
+
+**Education**
+Computer Engineering Graduate
+
+Do not make this section read like a traditional resume.
+
+---
+
+# 17. TOOLS
+
+Create a minimalist tools section.
+
+Primary:
+
+Photoshop
+Illustrator
+Canva
+Figma
+
+Supporting:
+
+CapCut
+Premiere Pro
+WordPress
+HTML/CSS
+ChatGPT
+AI Creative Tools
+
+Make Photoshop, Illustrator, Canva, and Figma visually dominant.
+
+---
+
+# 18. FINAL CONVERSION SECTION
+
+Create a large dark navy section near the bottom.
+
+Headline:
+
+**Have a brand that needs better visuals?**
+
+Supporting copy:
+
+**Let's create design that looks professional, communicates clearly, and gives your brand a stronger visual presence.**
+
+Primary CTA:
+
+**Start a Project**
+
+Secondary CTA:
+
+**View My Work**
+
+This should feel like the final conversion point of the entire website.
+
+---
+
+# 19. CONTACT SECTION
+
+Headline:
+
+**Let's work together.**
+
+Supporting text:
+
+**Tell me what you're working on, what you need designed, and your timeline. I'll get back to you with the next steps.**
+
+Create a clean project inquiry form.
+
+Fields:
+
+Name
+Email
+Company / Brand
+Project Type
+Timeline
+Project Details
+
+Project Type dropdown:
+
+- Social Media / Ads
+- Branding
+- Logo Design
+- Marketing Materials
+- Poster / Event Design
+- Content Design
+- Other
+
+Timeline:
+
+- ASAP
+- Within 1–2 weeks
+- Within a month
+- Flexible
+
+Project Details:
+
+**Tell me a little about what you need designed.**
+
+CTA:
+
+**Send Project Inquiry**
+
+---
+
+# 20. CONTACT INFORMATION
+
+Display direct contact options:
+
+**Email**
+jela.creatives@gmail.com
+
+**LinkedIn**
+https://www.linkedin.com/in/jeromelacieras
+
+**Behance**
+https://www.behance.net/jelacierasgfx
+
+Use clickable links.
+
+The email CTA should open the visitor's email client.
+
+LinkedIn should open in a new tab.
+
+Behance should open in a new tab.
+
+---
+
+# 21. CONTACT FORM BEHAVIOR
+
+The contact form should feel professional and simple.
+
+On submission:
+
+Show:
+
+**Thanks for reaching out! Your project inquiry has been received. I'll get back to you as soon as possible.**
+
+Implement proper validation.
+
+Do not collect unnecessary personal information.
+
+If backend email functionality cannot be configured automatically, create a clean fallback using:
+
+mailto: jela.creatives@gmail.com
+
+But structure the application so a real backend/email service can be connected later.
+
+---
+
+# 22. SEO
+
+Page title:
+
+**Jerome Lacieras — Graphic Designer | Ads, Branding & Marketing Design**
+
+Meta description:
+
+**Jerome Lacieras is a Graphic Designer with 5+ years of experience creating social media ads, branding, marketing creatives, posters, and digital visuals for brands and companies.**
+
+Keywords should naturally include:
+
+Graphic Designer
+Graphic Designer Philippines
+Social Media Designer
+Ad Creative Designer
+Branding Designer
+Marketing Designer
+Visual Designer
+Freelance Graphic Designer
+
+Use proper:
+
+H1
+H2
+H3
+
+Semantic HTML.
+
+Add Open Graph metadata.
+
+Use descriptive image alt text.
+
+---
+
+# 23. TECH STACK
+
+Use:
+
+React
+TypeScript
+Tailwind CSS
+
+Use reusable components.
+
+Recommended components:
+
+Navbar
+Hero
+CredibilityStrip
+FeaturedWork
+PortfolioGrid
+PortfolioCard
+ProjectDetail
+Services
+WhyWorkWithMe
+Process
+About
+Tools
+FinalCTA
+ContactForm
+Footer
+
+Store portfolio projects in a structured data file.
+
+Example fields:
+
+title
+category
+description
+role
+deliverables
+thumbnail
+images
+behanceUrl
+featured
+
+This should make it easy for Jerome to add future projects without redesigning the site.
+
+---
+
+# 24. BEHANCE CONTENT
+
+Use:
+
+https://www.behance.net/jelacierasgfx
+
+as the primary portfolio reference.
+
+The current Behance profile identifies Jerome as a Graphic Designer, shows availability for freelance/full-time work, and lists Newport World Resorts Gaming Solutions as his current organization. Use this as professional context but keep the website's main focus on his design capabilities rather than his employment history.
+
+Do not make the site dependent on Behance being available at runtime.
+
+If direct image/API retrieval from Behance is unavailable, create a structured local portfolio data system with clearly marked image placeholders that can easily be replaced with the actual project images.
+
+Do not use copyrighted stock images as substitutes for Jerome's portfolio work.
+
+---
+
+# 25. UX / CONVERSION RULES
+
+The site must follow this hierarchy:
+
+### ABOVE THE FOLD
+Who Jerome is + what he does + CTA
+
+↓
+
+### CREDIBILITY
+Experience + clients + professional background
+
+↓
+
+### PROOF
+Selected portfolio work
+
+↓
+
+### SERVICES
+What visitors can hire him for
+
+↓
+
+### TRUST
+Why work with him + process
+
+↓
+
+### CONVERSION
+Start a project
+
+↓
+
+### CONTACT
+Project inquiry form
+
+Every major section should naturally move the visitor toward contacting Jerome.
+
+Avoid placing unnecessary navigation links that take visitors away from the funnel.
+
+---
+
+# 26. CTA LANGUAGE
+
+Use consistent CTA language.
+
+Primary:
+
+**Let's Work Together**
+
+Secondary:
+
+**View My Work**
+
+Conversion:
+
+**Start a Project**
+
+Project:
+
+**Start a Similar Project**
+
+Avoid generic CTAs such as:
+
+"Learn More"
+"Click Here"
+"Submit"
+
+---
+
+# 27. ANIMATION
+
+Use subtle premium interactions:
+
+- smooth scrolling
+- fade-in on scroll
+- image reveal
+- slight portfolio hover movement
+- subtle image zoom
+- button hover states
+- navigation transition
+
+Animations must be fast and restrained.
+
+The portfolio itself should remain the focus.
+
+Respect prefers-reduced-motion accessibility settings.
+
+---
+
+# 28. RESPONSIVE DESIGN
+
+Desktop:
+
+Large editorial layouts and strong visual hierarchy.
+
+Tablet:
+
+Two-column portfolio where appropriate.
+
+Mobile:
+
+Single-column portfolio
+Large typography
+Easy-to-tap buttons
+Sticky/mobile navigation
+Simple contact form
+
+Ensure:
+
+No horizontal scrolling
+No cropped portfolio images
+No broken layouts
+No tiny text
+No inaccessible buttons
+
+---
+
+# 29. PERFORMANCE
+
+Optimize all portfolio images.
+
+Use:
+
+Lazy loading
+Responsive image sizes
+Modern image formats
+Minimal JavaScript
+Reusable components
+
+The site should feel fast even with many portfolio images.
+
+---
+
+# 30. FINAL DESIGN DIRECTION
+
+The final website should make a potential client think:
+
+**"This designer understands branding, advertising, and visual communication — I should contact him."**
+
+It should make a recruiter think:
+
+**"This is a professional designer with real-world experience and a strong portfolio."**
+
+It should make a company think:
+
+**"He can support our design and marketing needs."**
+
+Do not make the website feel like:
+
+- a resume
+- a Behance clone
+- an agency template
+- a generic AI-generated website
+
+Instead, make it feel like:
+
+**A premium personal creative brand built around Jerome's actual work.**
+
+The portfolio visuals should be the strongest element.
+
+The copy should be concise.
+
+The design should be confident.
+
+The CTA should always be easy to find.
+
+---
+
+# 31. FINAL QA BEFORE COMPLETION
+
+Before finishing:
+
+1. Test all navigation links.
+2. Test all portfolio filters.
+3. Test every project modal/page.
+4. Test Behance links.
+5. Test LinkedIn link.
+6. Test email link.
+7. Test contact form validation.
+8. Test mobile responsiveness.
+9. Test tablet responsiveness.
+10. Check for horizontal scrolling.
+11. Check image loading.
+12. Check accessibility.
+13. Check page title and metadata.
+14. Check console for errors.
+15. Ensure there are no fake claims or fabricated project information.
+16. Ensure no pricing/rates are displayed.
+17. Ensure the primary CTA consistently leads toward project inquiries.
+
+Build the complete website, not just a visual mockup.
+
+The result should be production-ready, polished, responsive, and suitable to send directly to potential clients and companies.

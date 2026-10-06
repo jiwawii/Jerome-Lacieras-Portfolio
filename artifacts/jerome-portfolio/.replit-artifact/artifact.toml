@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Jerome Lacieras — Graphic Designer"
+description = "A conversion-focused portfolio for Jerome Lacieras, a graphic designer available for brand, advertising, and marketing design work."
+version = "1.0.0"
+id = "artifacts/jerome-portfolio"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 22236
+
+[services.development]
+run = "pnpm --filter @workspace/jerome-portfolio run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/jerome-portfolio", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/jerome-portfolio/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "22236"
+BASE_PATH = "/"
